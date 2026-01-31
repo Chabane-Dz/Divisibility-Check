@@ -2,6 +2,7 @@
 
 int main(){
     int a,b ;
+    printf("___Divisibility Check___\n");
    printf("Enter A ( positive integer ):");
    scanf("%d",&a);
    printf("Enter B ( positive integer ):");
